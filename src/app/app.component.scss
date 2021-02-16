@@ -1,0 +1,8 @@
+.container {
+  display: grid;
+}
+
+.content,
+.overlay {
+  grid-area: 1 / 1;
+}
